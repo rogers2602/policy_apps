@@ -9,11 +9,12 @@ Site estático e institucional com portfólio de aplicativos Android desenvolvid
 
 ## 📱 Aplicativos no Portfólio
 
-| Aplicativo | Pacote (ID) | Categoria | Links |
+| Aplicativo | Pacote / Tipo | Categoria | Links |
 | :--- | :--- | :--- | :--- |
 | **Marques DSP: Áudio & Equalizer** | `com.devmarques.dsp` | Áudio & Equalizador | [Ver Página & Fotos](https://rogers2602.github.io/policy_apps/dsp.html) • [Google Play](https://play.google.com/store/apps/details?id=com.devmarques.dsp&hl=pt_BR) • [Termos & Privacidade](https://rogers2602.github.io/policy_apps/marques_dsp/) |
 | **Calcule Contas** | `com.devmarques.calcbills.calculacontas` | Finanças Pessoais | [Ver Página & Fotos](https://rogers2602.github.io/policy_apps/calcula_contas_app.html) • [Google Play](https://play.google.com/store/apps/details?id=com.devmarques.calcbills.calculacontas&hl=pt_BR) • [Termos & Privacidade](https://rogers2602.github.io/policy_apps/calcula_contas/) |
 | **ProfilesCam Presets Lightroom** | `gcamprofiles.devmarques.com.gcamprofiles` | Fotografia & Presets | [Ver Página & Fotos](https://rogers2602.github.io/policy_apps/profiles_cam_app.html) • [Google Play](https://play.google.com/store/apps/details?id=gcamprofiles.devmarques.com.gcamprofiles&hl=pt_BR) • [Termos & Privacidade](https://rogers2602.github.io/policy_apps/profiles_cam/) |
+| **Gamer Tool (GT)** | APK Oficial (Drive) | Games & Hardware Monitor | [Ver Página & Fotos](https://rogers2602.github.io/policy_apps/gmt_app.html) • [Download APK](https://drive.google.com/drive/folders/1izFjGVMGBfOn87sw9E8xflJwtyek241Y) • [Termos & Privacidade](https://rogers2602.github.io/policy_apps/gmt_policy/) |
 
 ---
 
@@ -22,6 +23,7 @@ Site estático e institucional com portfólio de aplicativos Android desenvolvid
 - **Marques DSP:** `https://rogers2602.github.io/policy_apps/marques_dsp/`
 - **Calcule Contas:** `https://rogers2602.github.io/policy_apps/calcula_contas/`
 - **ProfilesCam Presets Lightroom:** `https://rogers2602.github.io/policy_apps/profiles_cam/`
+- **Gamer Tool (GT):** `https://rogers2602.github.io/policy_apps/gmt_policy/`
 
 ---
 
