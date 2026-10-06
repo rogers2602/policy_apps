@@ -12,7 +12,7 @@ Site estático e institucional com portfólio de aplicativos Android desenvolvid
 | Aplicativo | Pacote (ID) | Categoria | Links |
 | :--- | :--- | :--- | :--- |
 | **Marques DSP: Áudio & Equalizer** | `com.devmarques.dsp` | Áudio & Equalizador | [Google Play](https://play.google.com/store/apps/details?id=com.devmarques.dsp&hl=pt_BR) • [Termos & Privacidade](https://rogers2602.github.io/policy_apps/marques_dsp/) |
-| **Calcule Contas** | `com.devmarques.calcbills.calculacontas` | Finanças Pessoais | [Google Play](https://play.google.com/store/apps/details?id=com.devmarques.calcbills.calculacontas&hl=pt_BR) |
+| **Calcule Contas** | `com.devmarques.calcbills.calculacontas` | Finanças Pessoais | [Google Play](https://play.google.com/store/apps/details?id=com.devmarques.calcbills.calculacontas&hl=pt_BR) • [Termos & Privacidade](https://rogers2602.github.io/policy_apps/calcula_contas/) |
 | **ProfilesCam Presets Lightroom** | `gcamprofiles.devmarques.com.gcamprofiles` | Fotografia & Presets | [Google Play](https://play.google.com/store/apps/details?id=gcamprofiles.devmarques.com.gcamprofiles&hl=pt_BR) • [Termos & Privacidade](https://rogers2602.github.io/policy_apps/profiles_cam/) |
 
 ---
@@ -20,6 +20,7 @@ Site estático e institucional com portfólio de aplicativos Android desenvolvid
 ## 🔒 Políticas de Privacidade Oficiais
 
 - **Marques DSP:** `https://rogers2602.github.io/policy_apps/marques_dsp/`
+- **Calcule Contas:** `https://rogers2602.github.io/policy_apps/calcula_contas/`
 - **ProfilesCam Presets Lightroom:** `https://rogers2602.github.io/policy_apps/profiles_cam/`
 
 ---
