@@ -13,13 +13,14 @@ Site estático e institucional com portfólio de aplicativos Android desenvolvid
 | :--- | :--- | :--- | :--- |
 | **Marques DSP: Áudio & Equalizer** | `com.devmarques.dsp` | Áudio & Equalizador | [Google Play](https://play.google.com/store/apps/details?id=com.devmarques.dsp&hl=pt_BR) • [Termos & Privacidade](https://rogers2602.github.io/policy_apps/marques_dsp/) |
 | **Calcule Contas** | `com.devmarques.calcbills.calculacontas` | Finanças Pessoais | [Google Play](https://play.google.com/store/apps/details?id=com.devmarques.calcbills.calculacontas&hl=pt_BR) |
-| **ProfilesCam Presets Lightroom** | `gcamprofiles.devmarques.com.gcamprofiles` | Fotografia & Presets | [Google Play](https://play.google.com/store/apps/details?id=gcamprofiles.devmarques.com.gcamprofiles&hl=pt_BR) |
+| **ProfilesCam Presets Lightroom** | `gcamprofiles.devmarques.com.gcamprofiles` | Fotografia & Presets | [Google Play](https://play.google.com/store/apps/details?id=gcamprofiles.devmarques.com.gcamprofiles&hl=pt_BR) • [Termos & Privacidade](https://rogers2602.github.io/policy_apps/profiles_cam/) |
 
 ---
 
-## 🔒 Políticas de Privacidade
+## 🔒 Políticas de Privacidade Oficiais
 
-- **Marques DSP:** `https://rogers2602.github.io/policy_apps/marques_dsp/` (ou [marques_dsp/terms_and_policy.md](marques_dsp/terms_and_policy.md))
+- **Marques DSP:** `https://rogers2602.github.io/policy_apps/marques_dsp/`
+- **ProfilesCam Presets Lightroom:** `https://rogers2602.github.io/policy_apps/profiles_cam/`
 
 ---
 
